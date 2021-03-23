@@ -19,7 +19,8 @@ namespace PR
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            if (MessageBox.Show("Вы действительно хотите выйти?", "Выход", MessageBoxButtons.YesNo) == DialogResult.Yes) Application.Exit();
+                
         }
 
         private void button1_Click(object sender, EventArgs e)
