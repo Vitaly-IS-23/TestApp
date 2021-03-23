@@ -1,0 +1,10 @@
+D:\C#\PR\PR\bin\Debug\PR.exe.config
+D:\C#\PR\PR\bin\Debug\PR.exe
+D:\C#\PR\PR\bin\Debug\PR.pdb
+D:\C#\PR\PR\obj\Debug\PR.csprojAssemblyReference.cache
+D:\C#\PR\PR\obj\Debug\PR.Form1.resources
+D:\C#\PR\PR\obj\Debug\PR.Properties.Resources.resources
+D:\C#\PR\PR\obj\Debug\PR.csproj.GenerateResource.cache
+D:\C#\PR\PR\obj\Debug\PR.csproj.CoreCompileInputs.cache
+D:\C#\PR\PR\obj\Debug\PR.exe
+D:\C#\PR\PR\obj\Debug\PR.pdb
